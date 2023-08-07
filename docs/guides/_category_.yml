@@ -1,0 +1,5 @@
+className: sidebar-hr # Set this to create a 'category separator'
+position: 6 # Sets this category to the second position in the sidebar
+label: '📚 Guides'
+collapsible: false
+collapsed: false

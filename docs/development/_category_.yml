@@ -1,0 +1,5 @@
+className: sidebar-hr # Set this to create a 'category separator'
+position: 4 # Sets this category to the second position in the sidebar
+label: '🛠 Development'
+collapsible: false
+collapsed: false

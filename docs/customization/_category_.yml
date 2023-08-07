@@ -1,0 +1,5 @@
+className: sidebar-hr # Set this to create a 'category separator'
+position: 5 # Sets this category to the second position in the sidebar
+label: '⚙ Customization'
+collapsible: false
+collapsed: false

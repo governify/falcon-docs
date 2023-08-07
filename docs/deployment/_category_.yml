@@ -1,0 +1,4 @@
+position: 3 # Sets this category to the second position in the sidebar
+label: 'Deployment'
+collapsible: true
+collapsed: true
